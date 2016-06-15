@@ -339,7 +339,12 @@ INTRO
     background-image: url('https://letreach.com/assets/letreach/img/header-background.png') ;
   }
 }
+
+.navbar {
+  font-weight: 400 !important;
+}
 /*
+
 
 =====================
 SERVICES / INTEGRATIONS
