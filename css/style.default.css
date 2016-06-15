@@ -216,8 +216,8 @@ fieldset[disabled] .btn-ghost.active {
 .btn-ghost.active,
 .open .dropdown-toggle.btn-ghost {
   color: #fff;
-  background-color: #ff7473;
-  border-color: #ff7473;
+  background-color: #1e83ec;
+  border-color: #1e83ec;
 }
 .btn-white {
   color: #ffffff;
@@ -842,12 +842,12 @@ NAVBAR
     padding-top: 23px;
   }
   .navbar ul.nav > li > a:hover {
-    border-top-color: #ff7473;
+    border-top-color: #1e83ec;
   }
   .navbar ul.nav > li.active > a,
   .navbar ul.nav > li.open > a {
     text-decoration: none !important;
-    border-top-color: #ff7473;
+    border-top-color: #1e83ec;
   }
 }
 .navbar-toggle {
@@ -875,7 +875,7 @@ ul.dropdown-menu li a:hover {
   margin-bottom: 24px;
 }
 #login-modal a {
-  color: #ff7473;
+  color: #1e83ec;
 }
 #login-modal p {
   font-weight: 300;
@@ -1226,7 +1226,7 @@ STYLE SWITCHER FOR DEMO
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #ffa7a6;
+  color: #0560ff;
   background-color: transparent;
 }
 .navbar-default .navbar-nav > .active > a,
