@@ -170,9 +170,9 @@ button i.fa {
   border-bottom: solid 1px #cdcdcd;
 }
 .btn-ghost {
-  color: #ff7473;
+  color: #1e83ec;
   background-color: transparent;
-  border-color: #ff7473;
+  border-color: #1e83ec;
 }
 .btn-ghost:hover,
 .btn-ghost:focus,
@@ -230,8 +230,8 @@ fieldset[disabled] .btn-ghost.active {
 .btn-white.active,
 .open .dropdown-toggle.btn-white {
   color: #ffffff;
-  background-color: rgba(0, 0, 0, 0);
-  border-color: #e0e0e0;
+  background-color: #1e83ec;
+  border-color: #1e83ec;
 }
 .btn-white:active,
 .btn-white.active,
@@ -275,8 +275,8 @@ fieldset[disabled] .btn-white.active {
   height: 60px;
   line-height: 60px;
   border-radius: 30px;
-  border: solid 1px #ff7473;
-  color: #ff7473;
+  border: solid 1px #1e83ec;
+  color: #1e83ec;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
@@ -321,7 +321,7 @@ INTRO
   color: #ffffff;
 }
 .text-intro span {
-  color: #ff7473;
+  color: #1e83ec;
 }
 @media (min-width: 1200px) {
   .text-intro {
@@ -329,7 +329,7 @@ INTRO
     box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.7);
     background-image: url('https://letreach.com/assets/letreach/img/header-background.png') ;
     background-repeat: repeat-x;
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffff7473', endColorstr='#ff46426f', GradientType=1);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1e83ec', endColorstr='#ff46426f', GradientType=1);
   }
 }
 @media (max-width: 1199px) {
@@ -375,7 +375,7 @@ SERVICES / INTEGRATIONS
   width: 100px;
   height: 1px;
   margin: 20px auto 20px;
-  background: #ff7473;
+  background: #1e83ec;
 }
 .services p {
   font-size: 14px;
@@ -1334,12 +1334,12 @@ body {
   background-color: #ffffff;
 }
 a {
-  color: #ff7473;
+  color: white;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #ff2826;
+  color: #1e83ec;
   text-decoration: underline;
 }
 a:focus {
@@ -1412,8 +1412,8 @@ hr {
 }
 .btn-primary {
   color: #ffffff;
-  background-color: #ff7473;
-  border-color: #ff7473;
+  background-color: #1e83ec;
+  border-color: #1e83ec;
 }
 .btn-primary:hover,
 .btn-primary:focus,
