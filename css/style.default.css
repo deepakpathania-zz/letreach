@@ -325,15 +325,18 @@ INTRO
 }
 @media (min-width: 1200px) {
   .text-intro {
-    background-image: -webkit-linear-gradient(left, color-stop(#ff7473 0%), color-stop(#46426f 60%));
-    background-image: linear-gradient(to right, #ff7473 0%, #46426f 60%);
+    background-size: cover;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.7);
+    background-image: url('https://letreach.com/assets/letreach/img/header-background.png') ;
     background-repeat: repeat-x;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffff7473', endColorstr='#ff46426f', GradientType=1);
   }
 }
 @media (max-width: 1199px) {
   .text-intro {
-    background: #46426f;
+    background-size: cover;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.7);
+    background-image: url('https://letreach.com/assets/letreach/img/header-background.png') ;
   }
 }
 /*
